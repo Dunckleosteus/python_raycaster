@@ -1,4 +1,4 @@
-
+# this is a modified version of the raycaster game
 from tkinter import *
 import numpy as np
 import tool
